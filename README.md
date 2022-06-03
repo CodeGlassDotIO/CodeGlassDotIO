@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+CodeGlass is made by an ambitious startup company based in the Netherlands. <br/>
+It is the best profiler and development tool made for you; at least, this is the goal we have set out.
+
 <!--
 **CodeGlassDotIO/CodeGlassDotIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
